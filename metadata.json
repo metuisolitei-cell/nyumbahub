@@ -1,0 +1,6 @@
+{
+  "name": "NyumbaHub",
+  "description": "Modern African-focused Property Management system optimized with M-Pesa integration, role dashboards, and tenant coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
